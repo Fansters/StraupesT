@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262658264900",
+    "firebase_url": "https://androidstraupe.firebaseio.com",
+    "project_id": "androidstraupe",
+    "storage_bucket": "androidstraupe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262658264900:android:1ed35033a43ec49d",
+        "android_client_info": {
+          "package_name": "com.example.evija.straupe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262658264900-r4hfl11232lseel7kst6jr5g2uvssd9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evija.straupe",
+            "certificate_hash": "a16909f37970906bfd16fd3c55ff00b694c9440b"
+          }
+        },
+        {
+          "client_id": "262658264900-jbgnev7tdslb3alsi6fighgac82sd219.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-wUmiCupehPPTVGYbcp2D4sZRUMy9zE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262658264900-jbgnev7tdslb3alsi6fighgac82sd219.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
